@@ -1,0 +1,13 @@
+C:\Users\rezog\source\repos\Monkey\Monkey\bin\Debug\netcoreapp3.1\Monkey.exe
+C:\Users\rezog\source\repos\Monkey\Monkey\bin\Debug\netcoreapp3.1\Monkey.deps.json
+C:\Users\rezog\source\repos\Monkey\Monkey\bin\Debug\netcoreapp3.1\Monkey.runtimeconfig.json
+C:\Users\rezog\source\repos\Monkey\Monkey\bin\Debug\netcoreapp3.1\Monkey.runtimeconfig.dev.json
+C:\Users\rezog\source\repos\Monkey\Monkey\bin\Debug\netcoreapp3.1\Monkey.dll
+C:\Users\rezog\source\repos\Monkey\Monkey\bin\Debug\netcoreapp3.1\Monkey.pdb
+C:\Users\rezog\source\repos\Monkey\Monkey\obj\Debug\netcoreapp3.1\Monkey.csprojAssemblyReference.cache
+C:\Users\rezog\source\repos\Monkey\Monkey\obj\Debug\netcoreapp3.1\Monkey.csproj.CoreCompileInputs.cache
+C:\Users\rezog\source\repos\Monkey\Monkey\obj\Debug\netcoreapp3.1\Monkey.AssemblyInfoInputs.cache
+C:\Users\rezog\source\repos\Monkey\Monkey\obj\Debug\netcoreapp3.1\Monkey.AssemblyInfo.cs
+C:\Users\rezog\source\repos\Monkey\Monkey\obj\Debug\netcoreapp3.1\Monkey.dll
+C:\Users\rezog\source\repos\Monkey\Monkey\obj\Debug\netcoreapp3.1\Monkey.pdb
+C:\Users\rezog\source\repos\Monkey\Monkey\obj\Debug\netcoreapp3.1\Monkey.genruntimeconfig.cache
