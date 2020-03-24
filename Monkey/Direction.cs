@@ -9,7 +9,11 @@ namespace Monkey
             RIGHT,
             LEFT,
             UP,
-            DOWN
-        }
+            DOWN,
+            RIGHTUP,
+            LEFTUP,
+            RIGHTDOWN,
+            LEFTDOWN
+    }
     }
 
