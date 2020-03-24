@@ -3,8 +3,6 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace Monkey
-{
-    //class Direction
     {        
         public enum Direction
         { 
@@ -14,4 +12,4 @@ namespace Monkey
             DOWN
         }
     }
-}
+
