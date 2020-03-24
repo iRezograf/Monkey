@@ -43,6 +43,7 @@ namespace Monkey
             }           
             return p;
         }
+
         public void Draw() 
         {
             Console.SetCursorPosition(this.x, this.y);

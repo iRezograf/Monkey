@@ -23,7 +23,8 @@ namespace Monkey
                     case Direction.DOWN : pList.Add( Head = p.Move(i, Direction.DOWN)  ); break;
                     default: Head = p; break;
                 }
-                pList.Add( Head );                
+                pList.Add( Head );  
+                
             }            
         }
 
